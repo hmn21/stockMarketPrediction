@@ -1,0 +1,7 @@
+lxml==3.5.0
+numpy>=1.10.2
+pandas>=0.17.1
+pandas-datareader==0.2.1
+scikit-learn>=0.17
+ta-lib==0.4.9
+tushare>=0.4.3
